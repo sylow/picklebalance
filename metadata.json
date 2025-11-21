@@ -1,0 +1,5 @@
+{
+  "name": "PickleBalance - AI Tournament Organizer",
+  "description": "A Pickleball round-robin tournament organizer that uses Gemini AI to generate balanced matches based on DUPR ratings.",
+  "requestFramePermissions": []
+}
